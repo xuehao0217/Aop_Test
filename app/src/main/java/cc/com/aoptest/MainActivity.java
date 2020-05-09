@@ -1,4 +1,4 @@
-package cc.com.myaoptest0;
+package cc.com.aoptest;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;

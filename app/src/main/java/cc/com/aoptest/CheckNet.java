@@ -1,4 +1,4 @@
-package cc.com.myaoptest0;
+package cc.com.aoptest;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

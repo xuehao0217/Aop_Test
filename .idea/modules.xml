@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidStudioProjects-Aop_Test.iml" filepath="$PROJECT_DIR$/AndroidStudioProjects-Aop_Test.iml" group="Aop_Test" />
       <module fileurl="file://$PROJECT_DIR$/Aop_Test.iml" filepath="$PROJECT_DIR$/Aop_Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/Aop_Test-app.iml" filepath="$PROJECT_DIR$/app/Aop_Test-app.iml" group="Aop_Test/app" />
+      <module fileurl="file://$PROJECT_DIR$/buildsrc/Aop_Test-buildsrc.iml" filepath="$PROJECT_DIR$/buildsrc/Aop_Test-buildsrc.iml" group="Aop_Test/buildsrc" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/buildsrc/buildsrc.iml" filepath="$PROJECT_DIR$/buildsrc/buildsrc.iml" />
     </modules>

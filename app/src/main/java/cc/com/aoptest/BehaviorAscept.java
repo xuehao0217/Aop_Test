@@ -1,4 +1,4 @@
-package cc.com.myaoptest0;
+package cc.com.aoptest;
 
 import android.app.Activity;
 import android.content.Context;

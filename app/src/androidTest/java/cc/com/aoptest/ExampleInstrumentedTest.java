@@ -1,4 +1,4 @@
-package cc.com.myaoptest0;
+package cc.com.aoptest;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
